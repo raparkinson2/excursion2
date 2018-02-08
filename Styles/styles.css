@@ -22,3 +22,8 @@ html {
 .cta {
   color: Aquamarine;
 }
+
+.footer {
+  font-size: 21px;
+  text-align: right;
+}
