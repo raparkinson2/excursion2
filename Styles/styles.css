@@ -1,0 +1,14 @@
+#body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  display: block;
+  font-weight: bold;
+}
+
+p {
+  color: gray;
+}
