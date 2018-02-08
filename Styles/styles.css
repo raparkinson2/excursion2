@@ -1,5 +1,4 @@
 #body {
-  background-color: black;
   text-align: center;
 }
 
@@ -11,4 +10,13 @@ h1 {
 
 p {
   color: gray;
+}
+
+html {
+  display: block;
+  background-color: black;
+}
+
+.cta {
+  color: Aquamarine;
 }
