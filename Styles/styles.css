@@ -6,10 +6,12 @@ h1 {
   color: white;
   display: block;
   font-weight: bold;
+  font-size: 50px;
 }
 
 p {
   color: gray;
+  font-size: 21px;
 }
 
 html {
